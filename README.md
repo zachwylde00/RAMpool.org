@@ -1,10 +1,18 @@
 # RAMpool
 CPU/GPU Miner pool where miner have.025% mining fees for lower hashrate ASCI proof coins. No ASCI MINING IS PERMITTED!  ANY INDIVIDUAL USING ASCI MINING EQUIPMENT  IN THIS POOL WILL AUTOMATTICALLY  LOSE!  ALL MINED VALUES! And values will be evenly redistributed among current miner contracts. This pool is part of USpool.org and is Bona-fide contract only! All hashrates below 150 h/s can enjoy 0%fees and Auto-import feature upon contract termination with any other pool. Auto-import bona-fide 0%mining contracts temporary account assignment applied with Auto-Approve American Bona-fide! Is miner discretion. Because of .025% pool fees Bona-fide miners may choose alternate sources for mining pools applications.
-
+Github.com
 https://github.com/zachwylde00/RAMpool.org
+
+website:
+Https://rampool/stratumtcp:3333/us_ashburn-1@oraclecloud.com
+
+stratum:
 https://stratumTCP/3333
 login: coinname()
 password: miner
+
+NTP Pool Project profile page:
+https://www.ntppool.org/a/c8zxtagcpo8ph
 
 USpool.org
 Mining pool for US resident/citizen auto-pool with smart detection will find miner and port TO eliminate fees (ethhash zcash sha256 etc. etc:asci miner)asci miners.can only auto-update as new contract or expired ContracReserveBona-fidePoolingOnly to 0% - .025% Poolfees Standard TXfees: Min 3 sats per byte - Max 22sats per byte all other miners can use .05% - 1.5%fees based on location Hashrate. Customery Txfees of origin residency. Available after account creation/approvedTemporary auto-creation. NO OTHER MINING OR MINER CONTRACT IS HONORED! GPU/CPU Miners See RAMpool.org. Supports Transparency in decentralization
